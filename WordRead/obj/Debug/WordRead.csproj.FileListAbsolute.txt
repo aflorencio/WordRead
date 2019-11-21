@@ -1,0 +1,7 @@
+C:\Users\AEliminalia\source\repos\WordRead\WordRead\bin\Debug\WordRead.exe.config
+C:\Users\AEliminalia\source\repos\WordRead\WordRead\bin\Debug\WordRead.exe
+C:\Users\AEliminalia\source\repos\WordRead\WordRead\bin\Debug\WordRead.pdb
+C:\Users\AEliminalia\source\repos\WordRead\WordRead\obj\Debug\WordRead.csprojAssemblyReference.cache
+C:\Users\AEliminalia\source\repos\WordRead\WordRead\obj\Debug\WordRead.csproj.CoreCompileInputs.cache
+C:\Users\AEliminalia\source\repos\WordRead\WordRead\obj\Debug\WordRead.exe
+C:\Users\AEliminalia\source\repos\WordRead\WordRead\obj\Debug\WordRead.pdb
